@@ -3,8 +3,6 @@
 ## Src
   * Main
     * Kotlin
-      * Dynamic Programming
-        * [Palindromepartitioning](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamic_programming/PalindromePartitioning.kt)
       * Dynamicprogramming
         * [Assemblylinescheduling](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamicProgramming/AssemblyLineScheduling.kt)
         * [Editdistance](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamicProgramming/EditDistance.kt)
@@ -12,6 +10,7 @@
         * [Isprime](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamicProgramming/isPrime.kt)
         * [Lcs](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamicProgramming/LCS.kt)
         * [Matrixchainmultiplication](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamicProgramming/MatrixChainMultiplication.kt)
+        * [Palindromepartitioning](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamicProgramming/PalindromePartitioning.kt)
         * [Rodcuttingproblem](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamicProgramming/RodCuttingProblem.kt)
         * [Unboundedknapsack](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamicProgramming/UnboundedKnapsack.kt)
         * [Weightedjobscheduling](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/dynamicProgramming/WeightedJobScheduling.kt)
@@ -22,8 +21,6 @@
         * [Factorial](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/math/Factorial.kt)
         * [Median](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/math/Median.kt)
         * [Twosum](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/math/TwoSum.kt)
-      * Other
-        * [Palindrome](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/other/Palindrome.kt)
       * Search
         * [Binarysearch](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/search/BinarySearch.kt)
         * [Interpolationsearch](https://github.com/TheAlgorithms/Kotlin/blob/master/src/main/kotlin/search/InterpolationSearch.kt)
